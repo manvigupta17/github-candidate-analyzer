@@ -213,13 +213,3 @@ The FastAPI backend exposes:
 
 ---
 
-## 📄 License
-
-This project is licensed under the MIT License.
-
----
-
-## 🙋 Author
-
-Built by [Your Name](https://github.com/YOUR_USERNAME)  
-Feel free to open issues or submit PRs!
